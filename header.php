@@ -7,9 +7,12 @@
         <meta charset="utf-8">
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="viewport" content ="width=device-width,initial-scale=1,user-scalable=yes" />
+        <!--screen size-->
+        <link rel="stylesheet" type="text/css" media="screen and (max-width: 360px)" href="portrait.css">
+        <link rel="stylesheet" type="text/css" media="screen and (min-width: 361px) and (max-width: 480px)" href="landscape.css">
+        <link rel="stylesheet" type="text/css" media="screen and (min-width: 481px)" href="desktop.css">
         <!--CSS-->
-        
         <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
         <link rel="stylesheet" type="text/css" href="assets/css/style.css">
         <link rel="stylesheet" type="text/css" href="assets/css/font-awesome.min.css">

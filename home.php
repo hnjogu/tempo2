@@ -141,6 +141,7 @@
             <div class="section-timeline">
                 <div class="container">
                   <div class="row">
+                  <div class="col-md-12">
                     <h2 class="heading">Our<span class="bold-green"> Timeline</span></h2>
                     <p class="lead under-heading text-center">Look at our timer</p>
                     <ul class="timeline">
@@ -177,7 +178,7 @@
                             </div><!--end of timeline panel-->
                         </li>
                     </ul>
-                    
+                   </div> 
                   </div>  
                 </div>
             </div>
@@ -296,6 +297,7 @@
             <div class="section-timeline">
                 <div class="container">
                   <div class="row">
+                  <div class="col-md-12">
                     <h2 class="heading">Our<span class="bold-green"> Creers</span></h2>
                     <p class="lead under-heading text-center">Latest jobs</p>
                     <ul class="timeline">
@@ -303,7 +305,7 @@
                             <div class="timeline-badge"><span class="counteryear">1</span></div>
                             <div class="timeline-panal wow bounceIn">
                                 <div class="timeline-heading">
-                                    <h4 class="timeline-title">CUSTOMER CARE / TELESALES INTERNS<span class="blue-underline"></span> </h4>
+                                    <h4 class="timeline-title">CUSTOMER CARE / TELESALES INTERNS<span class="blue-underline"></span></h4>
                                 </div>
                                 <div class="timeline-body"><p>
                                        Customer support in understanding the products and identify solutions to fit their needs, generating sales and renewals, whilst continuing to achieve customer satisfaction levels.
@@ -338,6 +340,7 @@
                             </div><!--end of timeline panel-->
                         </li>
                     </ul>
+                  </div>
                   </div> 
                 </div>
             </div>
