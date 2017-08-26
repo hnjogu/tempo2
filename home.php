@@ -30,7 +30,7 @@
        <!--Section About-->
        <section id="about">
           
-           <div class="section-about">
+          <div class="section-about">
               <div class="container">
                   <div class="row">
                       <div class="col-md-12 wow bounceIn">
@@ -40,40 +40,37 @@
                   </div>
               </div>
                <div class="section-wrapper">
-                   <div class="container">
-               <div class="row">
-                   <div class="col-md-4 wow bounceInDown">
-                       
-                           <a href="#"><img src="assets/icons/purposes.jpg" height="95" width="95"/></a>
-                           <h3 class="heading">Our Purpose:</h3>
-                           <p class="col-caption">
-                                Enhancing the quality of life of our people and caring for the planet
-                           </p>
-                   </div>
-                       
-                    <div class="col-md-4 wow bounceInDown">
-                       
-                           <a href="#"><img src="assets/icons/our_vision.jpg" height="95" width="95"/></a>
-                           <h3 class="heading">Our Vision:</h3>
-                           <p class="col-caption"> 
-                                To be the most effective agricultural business partner in Africa delivering along a triple bottom line (Profit.People. Planet)
-                           </p>
-                           
-                    </div>
+                  <div class="container">
+                      <div class="row">
+                            <div class="col-md-4 wow bounceInDown">
+                                 
+                                     <a href="#"><img src="assets/icons/purposes.jpg" height="95" width="95"/></a>
+                                     <h3 class="heading">Our Purpose:</h3>
+                                     <p class="col-caption">
+                                          Enhancing the quality of life of our people and caring for the planet
+                                     </p>
+                            </div>                       
+                            <div class="col-md-4 wow bounceInDown">
+                               
+                                   <a href="#"><img src="assets/icons/our_vision.jpg" height="95" width="95"/></a>
+                                   <h3 class="heading">Our Vision:</h3>
+                                   <p class="col-caption"> 
+                                        To be the most effective agricultural business partner in Africa delivering along a triple bottom line (Profit.People. Planet)
+                                   </p>                                   
+                            </div>
                       
-                    <div class="col-md-4 wow bounceInRight">
-                       
-                           <a href="#"><img src="assets/icons/our_mission.jpg" height="95" width="95"/></i></a>
-                           <h3 class="heading">Our Mission</h3>
-                           <p class="col-caption">
-                                We work with commercial farmers and supply chain players in Africa to build and manage closed-loop agriculture value chains while ensuring value for all stakeholders and caring for the planet.
-                           </p>
-                       
-                    </div>
-               </div>
-           </div>
-               </div>
-           </div>
+                            <div class="col-md-4 wow bounceInRight">
+                               
+                                   <a href="#"><img src="assets/icons/our_mission.jpg" height="95" width="95"/></i></a>
+                                   <h3 class="heading">Our Mission</h3>
+                                   <p class="col-caption">
+                                        We work with commercial farmers and supply chain players in Africa to build and manage closed-loop agriculture value chains while ensuring value for all stakeholders and caring for the planet.
+                                   </p>
+                            </div>
+                      </div>
+                  </div>
+            </div>
+        </div>
            
        </section><!--end of about section-->
        <!--Performers Section-->
@@ -143,6 +140,7 @@
        <section class="why-us" id="timeline">
             <div class="section-timeline">
                 <div class="container">
+                  <div class="row">
                     <h2 class="heading">Our<span class="bold-green"> Timeline</span></h2>
                     <p class="lead under-heading text-center">Look at our timer</p>
                     <ul class="timeline">
@@ -180,7 +178,7 @@
                         </li>
                     </ul>
                     
-                    
+                  </div>  
                 </div>
             </div>
         </section><!--end of timeline-->
@@ -294,9 +292,10 @@
                 </div>
             </div>
         </section>
-               <section class="why-us" id="careers">
+        <section class="why-us" id="careers">
             <div class="section-timeline">
                 <div class="container">
+                  <div class="row">
                     <h2 class="heading">Our<span class="bold-green"> Creers</span></h2>
                     <p class="lead under-heading text-center">Latest jobs</p>
                     <ul class="timeline">
@@ -339,8 +338,7 @@
                             </div><!--end of timeline panel-->
                         </li>
                     </ul>
-                    
-                    
+                  </div> 
                 </div>
             </div>
         </section><!--end of timeline-->
