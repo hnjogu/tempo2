@@ -23,13 +23,13 @@
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="loso-navbar-collapse-1">
                   <ul class="nav navbar-nav navbar-right">
-                        <li><a href="#HOME" class="nav-item">HOME</a></li>
-                        <li><a href="#about" class="nav-item">ABOUT</a></li>
+                        <li><a href="#HOME" class="nav-item">Home</a></li>
+                        <li><a href="#about" class="nav-item">About</a></li>
                         <li><a href="#performers" class="nav-item">Portfolio</a></li>
                         <li><a href="#timeline" class="nav-item">Our Timeline</a></li>
                         <li><a href="#testimony" class="nav-item">Testimony</a></li>
                         <li><a href="#numbers" class="nav-item">Our Impact</a></li>
-                        <li><a href="#careers" class="nav-item">Our Creers</a></li>>
+                        <li><a href="#team" class="nav-item">Team</a></li>>
                         <li><a href="#contact-us" class="nav-item">Contacts</a></li>
                   </ul>
                  
